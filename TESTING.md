@@ -1,4 +1,4 @@
-# RateMyBite — Testing Plan (Draft)
+# RateMyBite — Testing Plan
 
 This document explains how the team will verify that all components of RateMyBite function correctly.
 
