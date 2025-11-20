@@ -21,11 +21,11 @@ Each team member will take responsibility for major components during the initia
 |------------------|-------------------------|
 | Frontend UI (React/Next.js) | Reeham, Fatima |
 | Backend API (Node.js/Express) | Jamal |
-| Database setup & modeling (MongoDB) | Rikutoi |
+| Database setup & modeling (MongoDB) | Rikuto |
 | Map integration (Google Maps/Mapbox) | Reeham |
 | User authentication & authorization | Jamal |
 | Review & rating functionality | Fatima |
-| Admin dashboard | Reeham, Rikutoi |
+| Admin dashboard | Reeham, Rikuto |
 | Documentation & testing | All members |
 
 ---
