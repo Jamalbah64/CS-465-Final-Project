@@ -14,7 +14,7 @@ RateMyBite is a full-stack web application that allows users to discover restaur
 - **Reeham**
 - **Jamal**
 - **Fatima**
-- **Rikutoi**
+- **Rikuto**
 
 ## Repository Structure
 - `README.md` — Project overview  
