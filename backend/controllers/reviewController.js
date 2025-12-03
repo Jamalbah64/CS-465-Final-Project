@@ -1,4 +1,4 @@
-const Review = require("../models/review");
+const Review = require("../models/Review");
 const Restaurant = require("../models/restaurant");
 
 // GET /api/reviews/restaurant/:restaurantId
